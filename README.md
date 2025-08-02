@@ -1,8 +1,11 @@
-# Code for the paper "Fishing for Magikarp"
+# Repository Moved
 
 This repository contains the code and extended results for the paper Fishing for Magikarp: Automatically Detecting Under-trained Tokens in Large Language Models. 
-
 The paper is available on [arXiV](https://arxiv.org/abs/2405.05417) and [ACL Anthology](https://aclanthology.org/2024.emnlp-main.649/).
+
+Future updates to this repository will be published at [sanderland/magikarp](https://github.com/sanderland/magikarp/).
+
+# Navigating the codebase
 
 ## Exploring Results
 
